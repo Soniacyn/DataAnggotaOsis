@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Jabatan">
+        <item>Ketua Umum</item>
+        <item>Ketua 1</item>
+        <item>Ketua 2</item>
+        <item>Sekertaris 1</item>
+        <item>Sekertaris 2</item>
+        <item>Bendahara 1</item>
+        <item>Bendahara 2</item>
+        <item>Ketua Sie 1</item>
+        <item>Wakil Sie 1</item>
+        <item>Ketua Sie 2</item>
+        <item>Wakil Sie 2</item>
+        <item>Ketua Sie 3</item>
+        <item>Wakil Sie 3</item>
+        <item>Ketua Sie 4</item>
+        <item>Wakil Sie 4</item>
+        <item>Ketua Sie 5</item>
+        <item>Wakil Sie 5</item>
+        <item>Ketua Sie 6</item>
+        <item>Wakil Sie 6</item>
+        <item>Ketua Sie 7</item>
+        <item>Wakil Sie 7</item>
+        <item>Ketua Sie 8</item>
+        <item>Wakil Sie 8</item>
+    </string-array>
+</resources>
