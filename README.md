@@ -19,6 +19,8 @@ Di dalam aplikasi ini, data yang perlu dimasukkan adalah sebagai berikut :
 link Apk nya bisa langsung di download (https://drive.google.com/open?id=0B46-nUZecik0UWF5dlFLajc3ZkU)
 
 # Screenshoot Aplikasi
-
-
+![1](https://github.com/Soniacyn/DataAnggotaOsis/blob/master/1.jpg)
+![2](https://github.com/Soniacyn/DataAnggotaOsis/blob/master/2.jpg)
+![3](https://github.com/Soniacyn/DataAnggotaOsis/blob/master/3.jpg)
+![4](https://github.com/Soniacyn/DataAnggotaOsis/blob/master/4.jpg)
 
